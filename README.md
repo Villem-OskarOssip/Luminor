@@ -1,5 +1,8 @@
-1.Import all the SQLsheet in your mysql server.
+## Demo Java Desktop application
 
-2.Now run project 
+Before running the project import all the SQLsheet in your mysql server.
 
-Log in as a Admin(a:1234), Teacher(t:1234), Student(011142052:1234)
+Log in as:
+Admin(a:1234)
+Teacher(t:1234)
+Student(011142052:1234)
